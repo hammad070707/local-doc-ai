@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (uv/venv)
+.venv/
+venv/
+ENV/
+
+# uv specific
+uv.lock
+# Note: Kuch log uv.lock bhejte hain, lekin portfolio ke liye requirements.txt behtar hai.
+# Agar requirements.txt bhej rahe ho toh uv.lock ko ignore kar do.
+
+# IDEs (VS Code)
+.vscode/
+.idea/
+
+# Project Specific
+data/uploads/*
+!data/uploads/.gitkeep
+db/
+.env
+
+# OS related
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
