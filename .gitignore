@@ -8,10 +8,9 @@ __pycache__/
 venv/
 ENV/
 
-# uv specific
+
 uv.lock
-# Note: Kuch log uv.lock bhejte hain, lekin portfolio ke liye requirements.txt behtar hai.
-# Agar requirements.txt bhej rahe ho toh uv.lock ko ignore kar do.
+
 
 # IDEs (VS Code)
 .vscode/
