@@ -1,4 +1,4 @@
-📑 LocalDoc-AI: End-to-End Automated Invoice Processing
+📑 Local_AI Document Processing: End-to-End Automated Invoice Processing
 
 📌 Project Overview
 LocalDoc-AI is a production-grade, privacy-first automated pipeline designed to extract, structure, and route data from sensitive financial documents. By combining Local LLMs (Ollama) with Workflow Automation (n8n), this system transforms unstructured PDFs into structured assets (CSV, Databases) without any cloud dependency.
